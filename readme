@@ -1,0 +1,4 @@
+This version of the Client and Project Management system made the following changes using Javascript throughout the site: 
+-Have an error alert message come up if certain fields are left blank (doublecheck.js)
+-Have a message come up to verify that a user meant to click delete (verifydelete.js)
+-Automatically add a class to alternating table rows in order to give those alternate rows a different background color as the number of rows in the table are added to or deleted from (stripy_tables.js)
